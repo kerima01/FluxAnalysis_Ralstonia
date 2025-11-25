@@ -13,7 +13,7 @@ Les flux ont été calculés avec **COBRApy**, puis mappés sur le réseau méta
 - **liste_voies.csv** : Résultats du mapping des gènes sur les voies métaboliques.  
 - **graph.png** : Visualisation du sous-réseau glycolyse avec flux mappés.  
 - **mod_cobraPy.ipynb** : Notebook Jupyter contenant toutes les analyses et visualisations.
-- **lot.png** :  L’image du résultat du mapping montrant les voies métaboliques contenant les gènes esssentiels
+- **plot.png** :  L’image du résultat du mapping montrant les voies métaboliques contenant les gènes esssentiels
 
 ---
 
