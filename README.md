@@ -17,8 +17,7 @@ Les flux ont été calculés avec **COBRApy**, puis mappés sur le réseau méta
 ---
 
 ## Installation et utilisation
-1. Installer les dépendances Python :
-'''bash
+1. Installer les dépendances Python :  
 pip install cobra pandas cplex
 
 ## Méthodes utilisées
@@ -33,9 +32,9 @@ pip install cobra pandas cplex
 
 ## Résultats
 
-- **Croissance optimale simulée** : 8.39 h⁻¹.  
-- **Nombre de gènes essentiels identifiés** : 1 (cf. `essential_genes.csv`, gène : `e0444`).  
-- **Voies métaboliques contenant ces gènes** : cf. `liste_voies.csv`.  
+- **Croissance optimale simulée** : 0.5119279935093644.  
+- **Nombre de gènes essentiels identifiés** : 195 (cf. `essential_genes.csv`).  
+- **Voies métaboliques contenant ces gènes** : 45 (cf. `liste_voies.csv`).  
 - **Sous-réseau glycolyse visualisé dans le notebook** :
 
 ![Sous-réseau glycolyse](graph2.png)
@@ -52,7 +51,6 @@ pip install cobra pandas cplex
 
 ## Contact
 
-Pour toute question concernant le projet ou l'utilisation des outils MetExplore et COBRApy, vous pouvez contacter :
+Pour toute question concernant le projet vous pouvez contacter :
 
-- **MetExplore / Met4j** : clement.frainay@inrae.fr  
 - **Auteur du notebook** : Issa.kerima-khalil@utoulouse.fr
