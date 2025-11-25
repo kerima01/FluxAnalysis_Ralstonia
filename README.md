@@ -7,12 +7,12 @@ Les flux ont été calculés avec **COBRApy**, puis mappés sur le réseau méta
 ---
 
 ## Contenu du dépôt
-- ralsto_metexplore3.xml : Modèle SBML de Ralstonia solanacearum.  
-- fluxes_for_metexplore.csv : Valeurs de flux des réactions, format tabulé pour MetExplore.  
-- essential_genes.csv : Liste des gènes essentiels identifiés avec COBRApy.  
-- liste_voies.csv : Résultats du mapping des gènes sur les voies métaboliques.  
-- graph.png : Visualisation du sous-réseau glycolyse avec flux mappés.  
-- mod_cobraPy.ipynb : Notebook Jupyter contenant toutes les analyses et visualisations.  
+- **ralsto_metexplore3.xml** : Modèle SBML de Ralstonia solanacearum.  
+- **fluxes_for_metexplore.csv** : Valeurs de flux des réactions, format tabulé pour MetExplore.  
+- **essential_genes.csv** : Liste des gènes essentiels identifiés avec COBRApy.  
+- **liste_voies.csv** : Résultats du mapping des gènes sur les voies métaboliques.  
+- **graph.png** : Visualisation du sous-réseau glycolyse avec flux mappés.  
+- **mod_cobraPy.ipynb** : Notebook Jupyter contenant toutes les analyses et visualisations.  
 
 ---
 
