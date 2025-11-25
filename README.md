@@ -54,4 +54,4 @@ pip install cobra pandas cplex
 
 Pour toute question concernant le projet vous pouvez contacter :
 
-- **Auteur du notebook** : Issa.kerima-khalil@utoulouse.fr
+- **Auteur du notebook** : issa.kerima-khalil@utoulouse.fr
