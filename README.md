@@ -45,7 +45,7 @@ pip install cobra pandas cplex
 ## Notes importantes
 
 - Les fichiers tabulés pour MetExplore sont compatibles avec la fonction de mapping flux.  
-- Les images sont incluses via fichiers externes dans le notebook pour éviter les erreurs “missing attachment” sur GitHub.  
+- Les images sont incluses via fichiers externes dans le notebook.  
 - Pour toute analyse complémentaire ou modification du modèle, il est recommandé de travailler sur une **copie du modèle** afin de ne pas écraser l’original.
 
 ---
