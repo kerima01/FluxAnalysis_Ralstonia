@@ -18,8 +18,9 @@ Les flux ont été calculés avec **COBRApy**, puis mappés sur le réseau méta
 
 ## Installation et utilisation
 1. Installer les dépendances Python :
-```bash
+'''bash
 pip install cobra pandas cplex
+
 ## Méthodes utilisées
 
 - **Calcul des flux** : Optimisation FBA avec COBRApy.  
